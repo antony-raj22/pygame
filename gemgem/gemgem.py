@@ -1,7 +1,4 @@
-# Gemgem (a Bejeweled clone)
-# By Al Sweigart al@inventwithpython.com
-# http://inventwithpython.com/pygame
-# Released under a "Simplified BSD" license
+
 
 """
 This program has "gem data structures", which are basically dictionaries
