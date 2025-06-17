@@ -1,7 +1,4 @@
-# Slide Puzzle
-# By Al Sweigart al@inventwithpython.com
-# http://inventwithpython.com/pygame
-# Released under a "Simplified BSD" license
+
 
 import pygame, sys, random
 from pygame.locals import *
