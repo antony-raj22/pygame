@@ -1,11 +1,3 @@
-# Flippy (an Othello or Reversi clone)
-# By Al Sweigart al@inventwithpython.com
-# http://inventwithpython.com/pygame
-# Released under a "Simplified BSD" license
-
-# Based on the "reversi.py" code that originally appeared in "Invent
-# Your Own Computer Games with Python", chapter 15:
-#   http://inventwithpython.com/chapter15.html
 
 import random, sys, pygame, time, copy
 from pygame.locals import *
