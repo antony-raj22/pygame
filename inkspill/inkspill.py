@@ -1,7 +1,4 @@
-# Ink Spill (a Flood It clone)
-# http://inventwithpython.com/pygame
-# By Al Sweigart al@inventwithpython.com
-# Released under a "Simplified BSD" license
+
 
 import random, sys, webbrowser, copy, pygame
 from pygame.locals import *
