@@ -1,7 +1,4 @@
-# Simulate (a Simon clone)
-# By Al Sweigart al@inventwithpython.com
-# http://inventwithpython.com/pygame
-# Released under a "Simplified BSD" license
+
 
 import random, sys, time, pygame
 from pygame.locals import *
